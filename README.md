@@ -14,7 +14,7 @@ Tools and tech:
 - Javascript, HTML, CSS
 - SQL
 - Figma
-- After effects 
-
+- After effects, Photoshop
+  
 To reach me you can contact me via email: monica.figueiredo50@hotmail.com
 
